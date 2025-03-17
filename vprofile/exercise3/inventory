@@ -13,7 +13,7 @@ all:
        web02:
     dbservers:
       hosts:
-      db01:
+       db01:
     dc_oregon:
       children:
         webservers:
